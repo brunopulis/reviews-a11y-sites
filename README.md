@@ -1,14 +1,20 @@
 # Reviews A11Y Sites
 
-> List of sites that have been reviewed for accessibility and possible fixes
+Lista de sites que foram avaliados no quesito de acessibilidade e suas correções.
 
-**Table of Contents**
+**Índice**
 
 - [Reviews A11Y Sites](##reviews-a11y-sites)
-  
-## License
+  - [brunopulis.com](#brunopulis.com)
+  - [Licença](#licença)
 
-MIT License
+## brunopulis.com
+
+
+
+## Licença
+
+MIT Licença
 
 Copyright (c) 2017 Bruno Pulis
 
