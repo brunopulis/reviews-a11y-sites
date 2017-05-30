@@ -1,4 +1,4 @@
-# Reviews A11Y Sites
+# Reviews de Acessibilidade 
 
 O intuito desse repositório e para estudo, vou demonstrar que é possível desenvolver website's de acordo com os padrões de acessibilidade, a ideia não é denegrir a imagem da empresa ou site em questão, mas levantar pontos importantes como a inclusão das pessoas em suas aplicações.
 
