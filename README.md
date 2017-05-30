@@ -1,6 +1,10 @@
 # Reviews A11Y Sites
 
-Lista de sites que foram avaliados no quesito de acessibilidade e suas correções.
+O intuito desse repositório e para estudo, vou demonstrar que é possível desenvolver website's de acordo com os padrões de acessibilidade, a ideia não é denegrir a imagem da empresa ou site em questão, mas levantar pontos importantes como a inclusão das pessoas em suas aplicações.
+
+## Organização
+
+O repositório será divido em duas partes: a primeira o site **como está em produção** e a segunda com as **devidas correções de acessibilidade**.
 
 **Índice**
 
